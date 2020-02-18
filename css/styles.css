@@ -34,7 +34,6 @@ hr {
 
 p {
   line-height: 2;  
-  font-size: 1em;
 }
 
 hr {
@@ -58,6 +57,7 @@ a:hover {
 }
 /*****CLASS*****/
 .contact-msg {
+  font-size: 1em;
   width: 40%;
   margin: 40px auto 60px;
 }
@@ -91,6 +91,7 @@ a:hover {
 
 .intro {
   color: #40514E;
+  font-size: 1em;
   margin: auto;
   width: 30%;
 }
