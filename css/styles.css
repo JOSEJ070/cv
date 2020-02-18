@@ -33,7 +33,7 @@ hr {
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 2;  
 }
 
@@ -58,7 +58,7 @@ a:hover {
 }
 /*****CLASS*****/
 .contact-msg {
-  font-size: 20px;
+  font-size: 18px;
   width: 40%;
   margin: 40px auto 60px;
 }
@@ -92,7 +92,7 @@ a:hover {
 
 .intro {
   color: #40514E;
-  font-size: 20px;
+  font-size: 18px;
   margin: auto;
   width: 30%;
 }
