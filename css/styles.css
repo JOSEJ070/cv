@@ -97,16 +97,19 @@ a:hover {
 .top-container {
   color: #66BFBF;
   background-color: #E4F9F5;
+  font-size: 1em;
   position: relative;
   padding-top: 100px;
 }
 
 .middle-container {
+  font-size: 1rem;
   margin: 100px 0;
 }
 
 .bottom-container {
   background-color: #66BFBF;
+  font-size: 1rem;
   padding: 50px 0 20px;
 }
 
@@ -160,6 +163,6 @@ a:hover {
 .copyright {
   color: #EAF6F6;
   /* 75% of 16px */
-  font-size: 0.75em;
+  font-size: 0.75rem;
   padding: 20px 0;
 }
