@@ -56,6 +56,11 @@ a {
 a:hover {
   color: #3AF6F6;
 }
+/*****ID*****/
+#love {
+  margin: 0 70px;
+}
+
 /*****CLASS*****/
 .contact-msg {
   font-size: 18px;
